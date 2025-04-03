@@ -14,6 +14,9 @@ int num2 =sc.nextInt();
 int add =num1+num2;
 
 System.out.println( " the addition of 2 numbers is " + add);
+  int multi =num1 * num2;
+  System.out.println("the multiplication of 2 numbers is " + multi );
+  
 sc.close();
 
 }}
