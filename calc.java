@@ -1,7 +1,7 @@
-#import java.util.scanner;
+import java.util.Scanner;
 
-public class Addition;
-public static void main(Strings[] args) {
+public class Addition{
+public static void main(String[] args) {
 
 Scanner sc = new Scanner(System.in);
 
@@ -16,4 +16,4 @@ int add =num1+num2;
 System.out.println( " the addition of 2 numbers is " + add);
 sc.close();
 
-}
+}}
